@@ -12,18 +12,17 @@ Face recognition algorithms compare the detected faces with the stored dataset t
 Upon successful recognition of a face, the system records the individual's name, timestamp, and date in an attendance record.
 # Getting Started
 To set up and run the Attendance System:
-
-Install OpenCV and necessary Python dependencies.
-Prepare a dataset of facial images labeled with individual names.
-Implement face recognition and attendance marking functionality using the provided Python script.
-Run the Python script to start the attendance system.
+1. Install OpenCV and necessary Python dependencies.
+2.Prepare a dataset of facial images labeled with individual names.
+3. Implement face recognition and attendance marking functionality using the provided Python script.
+4. Run the Python script to start the attendance system.
 # Key Features
-Real-time face detection and recognition using OpenCV.
-Automatic marking of attendance upon successful face recognition.
-Minimal setup required to start tracking attendance using a camera.
+1. Real-time face detection and recognition using OpenCV.
+2. Automatic marking of attendance upon successful face recognition.
+3. Minimal setup required to start tracking attendance using a camera.
 # How to Use
-Clone the repository containing the Python script and dataset.
-Ensure that Python and OpenCV are properly installed on your system.
-Run the Python script to initialize the attendance system.
-Position the camera to capture individuals' faces in the frame.
-The system will detect and recognize faces, marking attendance accordingly.
+1. Clone the repository containing the Python script and dataset.
+2. Ensure that Python and OpenCV are properly installed on your system.
+3. Run the Python script to initialize the attendance system.
+4. Position the camera to capture individuals' faces in the frame.
+5. The system will detect and recognize faces, marking attendance accordingly.
