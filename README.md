@@ -26,3 +26,10 @@ To set up and run the Attendance System:
 3. Run the Python script to initialize the attendance system.
 4. Position the camera to capture individuals' faces in the frame.
 5. The system will detect and recognize faces, marking attendance accordingly.
+
+   # Results
+   ![20220807_165336](https://github.com/Shradd20/Project-attendance-cv-code/assets/68496510/0c17e9da-574c-44f6-9ccf-1ce89bd1a4f6)
+
+   ![IMG-20240129-WA0017](https://github.com/Shradd20/Project-attendance-cv-code/assets/68496510/ee030c08-f10d-4376-a6db-ecaeab39a932)
+
+
